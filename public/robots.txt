@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://terravianlandscaping.com/sitemap.xml
